@@ -1,0 +1,22 @@
+.aApple{
+	color:#FFBFB9;
+}
+.aApple:hover{
+	color:white;
+}
+.dropApple{
+	color:#DC4C3F;
+}
+.dropApple:hover{
+	color:#FFBFB9;
+	font-weight: 600;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+	background-color: rgba(0,0,0,0.2);
+}
+.bgApple{
+	background-color: #DC4C3F;
+}
+.dropActiveApple{
+	font-weight:600;
+}
